@@ -1,5 +1,5 @@
 const salahData = [
-	{ day: "Ramadan 01", maghrib: 1, isha: 1, fajr: 1, dhuhr: 1, asr: 1 },
+	{ day: "Ramadan 01", maghrib: 2, isha: 2, fajr: 1, dhuhr: 1, asr: 1 },
 	{ day: "Ramadan 02", maghrib: 1, isha: 1, fajr: 1, dhuhr: 1, asr: 1 },
 	{ day: "Ramadan 03", maghrib: 1, isha: 1, fajr: 1, dhuhr: 1, asr: 1 },
 	{ day: "Ramadan 04", maghrib: 1, isha: 1, fajr: 1, dhuhr: 1, asr: 1 },
